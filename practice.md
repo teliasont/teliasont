@@ -33,7 +33,7 @@ You can also check out the [contributing guidelines] (https://github.com/usernam
 
 ### Screenshots
 
-[![Markdown Logo](image.jpg)](https://assets.codepen.io/16425/image-placeholder.png)
+![Markdown Logo](image.jpg)(https://assets.codepen.io/16425/image-placeholder.png)
 
 ### Tasks
 
