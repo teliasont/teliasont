@@ -3,8 +3,9 @@
 # Hello! I'm Tayla
 I make things sometimes and often spend too much time with my nose in a book and my head in the clouds.
 
-Books read this year: ![Generic badge](https://img.shields.io/badge/79-teal.svg)
-Audiobook hours logged this year: ![Generic badge](https://img.shields.io/badge/355-purple.svg)
+Books read this year: ![Generic badge](https://img.shields.io/badge/84-teal.svg)
+
+Audiobook hours logged this year: ![Generic badge](https://img.shields.io/badge/384-purple.svg)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teliasont/)](https://www.linkedin.com/in/teliasont/)
+1v1 me on the LinkedIn Games leaderboard --> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teliasont/)](https://www.linkedin.com/in/teliasont/)
